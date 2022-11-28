@@ -6,6 +6,6 @@ seja telefone ou senha, caso esses valores fossem achados pelo for
 eles assumiriam esse valor, caso não fosse o valor da variavel permaneceria 0
 o sistema de segurança funcionaria caso desse 0 no valor da variável
 caso a variável conseguisse ser achada ela iria assumir esse valor e ai não ficaria em 0
-ai sim o programa iria prosseguir para o login, é isso.
+ai sim o programa iria prosseguir para o Login
 
 ## ## ## ##
